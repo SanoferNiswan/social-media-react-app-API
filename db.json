@@ -1,0 +1,46 @@
+{
+    "posts": [
+      {
+        "id": "1",
+        "title": "Exploring the Mountains",
+        "datetime": "July 17, 2024 8:39:45 PM",
+        "body": "\"Just got back from an amazing hiking trip in the Rockies! The views were breathtaking, and the experience was unforgettable. Can't wait for the next adventure! 🏔️ #NatureLover #MountainLife\""
+      },
+      {
+        "id": "2",
+        "title": "New Recipe Alert!",
+        "datetime": "July 17, 2024 8:40:40 PM",
+        "body": "\"Tried my hand at a new recipe today – Spaghetti Carbonara! It turned out delicious. Sharing the recipe so you all can enjoy it too. 🍝 #Foodie #HomeChef\""
+      },
+      {
+        "id": "3",
+        "title": "Tech Innovations",
+        "datetime": "July 17, 2024 8:41:05 PM",
+        "body": "\"Excited to share the latest tech trends from the annual TechCon! From AI advancements to groundbreaking gadgets, the future looks promising. #TechSavvy #Innovations\""
+      },
+      {
+        "id": "4",
+        "title": "Fitness Goals",
+        "datetime": "July 17, 2024 8:41:30 PM",
+        "body": "\"Achieved my fitness goal for the month! Feeling stronger and healthier. Remember, consistency is key. 💪 #FitnessJourney #StayHealthy\""
+      },
+      {
+        "id": "5",
+        "title": "Weekend Gateway",
+        "datetime": "July 18,2024 7:53:06 PM",
+        "body": "\"Had a relaxing weekend at the beach. The sound of waves and the sunset view were just what I needed. 🏖️ #BeachLife #WeekendVibes\""
+      },
+      {
+        "id": "51",
+        "title": "Sano",
+        "datetime": "July 18,2024 9:52:45 PM",
+        "body": "\"public class Example {\n    public static void main(String[] args) {\n        String hexdec = \"example\";\n\n        for (int i = 0; i < hexdec.length(); i++) {\n            // Perform operations with hexdec.charAt(i)\n            System.out.println(hexdec.charAt(i));\n        }\n    }\n}\"\n"
+      },
+      {
+        "id": "511",
+        "title": "Error guyss",
+        "datetime": "July 21,2024 1:31:48 PM",
+        "body": "social-media-react-app\nGetting Started with Create React App\nThis project was bootstrapped with Create React App.\n\nAvailable Scripts\nIn the project directory, you can run:\n\nnpm start\nRuns the app in the development mode.\nOpen http://localhost:3000 to view it in your browser.\n\nThe page will reload when you make changes.\nYou may also see any lint errors in the console.\n\nnpm test\nLaunches the test runner in the interactive watch mode.\nSee the section about running tests for more information.\n\nnpm run build\nBuilds the app for production to the build folder.\nIt correctly bundles React in production mode and optimizes the build for the best performance.\n\nThe build is minified and the filenames include the hashes.\nYour app is ready to be deployed!\n\nSee the section about deployment for more information.\n\nnpm run eject\nNote: this is a one-way operation. Once you eject, you can’t go back!\n\nIf you aren’t satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.\n\nInstead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except eject will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.\n\nYou don’t have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.\n\nLearn More\nYou can learn more in the Create React App documentation.\n\nTo learn React, check out the React documentation.\n\nCode Splitting\nThis section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting\n\nAnalyzing the Bundle Size\nThis section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size\n\nMaking a Progressive Web App\nThis section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app\n\nAdvanced Configuration\nThis section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration\n\nDeployment\nThis section has moved here: https://facebook.github.io/create-react-app/docs/deployment\n\nnpm run build fails to minify\nThis section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minif"
+      }
+    ]
+  }
